@@ -1,13 +1,12 @@
-baseurl: /cs228-notes
-title: Probabilistic graphical modeling course
-subtitle: Lecture notes for Stanford cs228.
-author: Volodymyr Kuleshov
+baseurl: /notes
+title: Course Notes
+subtitle: Lecture notes from IISC.
 simple_search: http://google.com/search
-description: Lecture notes for Stanford cs228.
+description: Lecture notes from IISC.
 name: cs228-notes
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
-timezone: America/New_York
+timezone: India
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 post:
